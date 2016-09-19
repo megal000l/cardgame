@@ -32,7 +32,7 @@ CardGame
 
 # Run Guide
 
-  > Compile & Run: haxe make.js
+  > Compile & Run: haxe make.hxml
 
 
 # Project Status
