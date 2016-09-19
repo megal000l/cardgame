@@ -3,9 +3,7 @@ CardGame
 
 #Introduction
 
-> *CardGame* is an online card video game.
-
-* The full gameplay and design will be released later...
+> *CardGame* is an online card video game. The full gameplay and design will be released later...
 
 #Installation Guide
 
@@ -20,13 +18,17 @@ CardGame
 	* npm install
 
 * Install git
-  * Linux: sudo apt-get install git
-  * Windows: https://git-scm.com/download/win
+	* Linux: sudo apt-get install git
+	* Windows: https://git-scm.com/download/win
 
 * Install Haxe and Neko
-  * Linux : https://haxe.org/download/linux
-  * Windows : https://haxe.org/download
+	* Linux : https://haxe.org/download/linux
+	* Windows : https://haxe.org/download
 
+* Install Haxe libs
+	* haxelib install hxnodejs
+	* haxelib install haxelow
+	* haxelib git js-kit https://github.com/clemos/haxe-js-kit.git haxelib 
 
 # Run Guide
 
@@ -45,7 +47,7 @@ CardGame
 
 # TODO
 
-  * Fill this todo list
+* Fill this todo list
 
 # Developer's Notes
 
